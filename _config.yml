@@ -1,1 +1,12 @@
 remote_theme: jekyllup/jekyll-theme-massively
+# Social
+analytics-id:       "default"
+twitter:            nouscon
+facebook:           default
+instagram:          default
+github:             nouscon
+
+# personal
+location:           Los Angeles, CA
+phone:              310-318-5555
+email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
