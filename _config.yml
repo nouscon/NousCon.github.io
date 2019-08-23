@@ -1,14 +1,41 @@
-remote_theme: nrandecker/particle
+remote_theme: ariestiyansyah/naringu
 
-# Site settings
-description: A weeklong conference in Philly featuring pumpcon on Saturday
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
 
-# User settings
-username: NousCon
-user_description: A weeklong conference in Philly featuring pumpcon on Saturday
-user_title: 2019
-email: spam@nouscon.org
-twitter_username: nouscon
-github_username:  nouscon
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Naringu
+tagline:             'A Hacker like jekyll theme'
+description:         'oonlab is crafted with <3 by ariestiyansyah.'
+url:                 http://naringu.oonlab.com
+baseurl:             /
+paginate:            7
+
+# About/contact
+author:
+  name:              Rizky Ariestiyansyah
+  url:               https://twitter.com/ariestiyansyah
+  email:             ariestiyansyah.rizky@gmail.com
+
+# Custom vars
+version:             2.0
+
+# Social Media
+github:				http://github.com/ariestiyansyah
+twitter:			http://twitter.com/ariestiyansyah
+disqus:             testnaringu
+
+# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
+theme:
+  creator:			Rizky Ariestiyansyah
+  codename:			Naringu
+  link:             https://github.com/ariestiyansyah/naringu
