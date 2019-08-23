@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Welcome Text goes here for now
+Welcome Text goes here
 
 ### Markdown
 
