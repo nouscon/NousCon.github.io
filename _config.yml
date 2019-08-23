@@ -1,1 +1,14 @@
 remote_theme: nrandecker/particle
+
+# Site settings
+description: A weeklong conference in Philly featuring pumpcon on Saturday
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
+
+# User settings
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Anon Developer
+email: spam@nouscon.org
+twitter_username: nouscon
+github_username:  nouscon
